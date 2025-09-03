@@ -50,6 +50,6 @@ I am immensely grateful for the guidance and knowledge imparted during the bootc
 
  # contact
 Email: calebmwaura1@gmail.com
-Github: mainlymwaura
-linkedin: caleb mburu
+Github: github/mainlymwaura
+linkedin: linkedin/caleb mburu
 
